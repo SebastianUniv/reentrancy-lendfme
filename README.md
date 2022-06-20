@@ -11,6 +11,7 @@ yarn hardhat  node
 Run the following to compile and deploy the contracts to your local network.
 
 ```shell
+yarn hardhat compile
 yarn hardhat run --network localhost scripts/deploy.js
 ```
 
